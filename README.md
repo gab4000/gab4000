@@ -2,6 +2,8 @@
 <img src="/avatar.jpg" alt="avatar" style="height: 100px; width:100px;"/>
 I am passionate about computer science and programming. I like to code games and applications in python 🐍. I also like to create Minecraft Spigot plugins in java ☕️.
 
+**My discord** : gab500#3294
+
 <!--
 **gab4000/gab4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
