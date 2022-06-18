@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile](/assets/img/MarineGEO_logo.png "Profile")
+![Profile](avatar.png "Profile")
 
 <!--
 **gab4000/gab4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
