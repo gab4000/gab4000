@@ -1,4 +1,4 @@
-# <img src="/avatar.jpg" alt="avatar" style="height: 20px; width: 20px;"/> Hi there 👋
+# <img src="/avatar.jpg" alt="avatar" style="height: 25px; width: 25px;"/> Hi there 👋
 I am passionate about computer science and programming. I like to code games and applications in python 🐍. I also like to create Minecraft Spigot plugins in java ☕️.
 
 **My discord** : gab500#3294
