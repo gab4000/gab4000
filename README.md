@@ -1,7 +1,6 @@
 # Hi there 👋
 I am passionate about computer science and programming. I like to code games and applications in python 🐍. I also like to create Minecraft Spigot plugins in java ☕️.
 
-**My discord** : gab500#3294
 <br><br>
 <img src="/avatar.jpg" alt="avatar" style="height: 150px; width: 150px;"/>
 
