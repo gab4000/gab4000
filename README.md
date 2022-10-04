@@ -2,7 +2,7 @@
 I am passionate about computer science and programming. I like to code games and applications in python 🐍. I also like to create Minecraft Spigot plugins in java ☕️.
 
 <br><br>
-<img src="/avatar.jpg" alt="avatar" style="height: 150px; width: 150px;"/>
+<img src="/avatar.jpg" alt="avatar" style="height: 150px; width: 150px; border-radius: 25%;"/>
 
 <!--
 **gab4000/gab4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
