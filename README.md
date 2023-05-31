@@ -3,6 +3,7 @@ I am passionate about computer science and programming. I like to code games and
 
 <br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab4000&show_icons=true&icon_color=34A2F9&title_color=34A2F9&text_color=FFFFFF&include_all_commits=true&hide_border=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab4000&layout=compact&title_color=34A2F9&text_color=FFFFFF&hide_border=true&theme=dark#gh-dark-mode-only)
 <!--
 **gab4000/gab4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
