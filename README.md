@@ -2,6 +2,7 @@
 I am passionate about computer science and programming. I like to code games and applications in python 🐍. I also like to create Minecraft Spigot plugins in java ☕️.
 
 <br><br>
+[![The best repo](https://github-readme-stats.vercel.app/api/pin/?username=gab4000&repo=TestPlugin&card_width=450&hide_border=false&theme=github_dark_dimmed)](https://github.com/gab4000/TestPlugin)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab4000&show_icons=true&icon_color=34A2F9&title_color=34A2F9&text_color=FFFFFF&include_all_commits=true&card_width=450&hide_border=false&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab4000&layout=compact&title_color=34A2F9&text_color=FFFFFF&card_width=450&langs_count=10&hide_border=false&theme=github_dark_dimmed) -->
 <!--
