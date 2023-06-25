@@ -1,6 +1,5 @@
 # Hi there 👋
-I am passionate about computer science and programming. I like to code games and applications in python 🐍. I also like to create Minecraft Spigot plugins in java ☕️.
-
+Je suis passionné par l'informatique et la programmation. J'aime coder des sites Web en HTML/CSS/(JS). J'aime aussi créer des plugins Minecraft Spigot en java.
 <br><br>
 ### The most active repository:
 [![The best repo](https://github-readme-stats.vercel.app/api/pin/?username=gab4000&repo=TestPlugin&card_width=450&hide_border=false&theme=github_dark_dimmed)](https://github.com/gab4000/TestPlugin)
